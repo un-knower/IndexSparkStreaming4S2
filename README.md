@@ -1,0 +1,5 @@
+KAFKA_TOPIC
+KAFKA_BROKER_ID
+KAFKA_GROUP_ID_INDEX
+pass_yearid_index_table
+pass_info_index_table
